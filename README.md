@@ -22,8 +22,9 @@ cd ./zerg-hoard
 
 in bwapi.ini set ai = null
 
-Run zerg-hoard:
+As administrator Run zerg-hoard:
 ```
 ./gradlew run
 ```
-Start StarCraft match and AI should take control
+
+As administrator start StarCraft using the choaslauncher match and AI should take control
